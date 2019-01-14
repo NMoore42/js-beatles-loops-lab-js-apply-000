@@ -20,6 +20,6 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
   let iLoveArray = [];
   do {
-    iLoveArray+= "I love th Beatles!";
+    iLoveArray.pop("I love the Beatles!") ;
   } while (iLoveArray.length <= number)
 }
