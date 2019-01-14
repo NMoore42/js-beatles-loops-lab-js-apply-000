@@ -21,5 +21,13 @@ function iLoveTheBeatles(number){
   let iLoveArray = [];
   do {
     iLoveArray.push("I love the Beatles!") ;
-  } while (iLoveArray.length <= number)
+  } while (15 - number > iLoveArray.length)
 }
+
+
+
+
+
+
+
+
